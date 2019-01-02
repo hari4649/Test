@@ -1,0 +1,4 @@
+node {
+stage 'Run Jmeter Test'
+bat 'C:\Users\vankayalapati.sri\Downloads\apache-jmeter-3.2\apache-jmeter-3.2\bin\jmeter -n -t C:\Users\vankayalapati.sri\Downloads\apache-jmeter-3.2\apache-jmeter-3.2\bin\newscript.jmx -l C:\Users\vankayalapati.sri\Downloads\apache-jmeter-3.2\apache-jmeter-3.2\bin\newscript9.jtl'
+}
